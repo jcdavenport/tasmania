@@ -1,6 +1,6 @@
 {
     "command": "/home/jxdx/Development/tasmania/venv/bin/ludwig train --data_csv data/train/processed.csv --model_definition {input_features: [{name: Consolidated_Course_Name, type: text}], output_features: [{name: Category, type: category}]}",
-    "commit_hash": "364f1e3a65b9",
+    "commit_hash": "f81b0eb5d4f7",
     "input_data": "data/train/processed.csv",
     "ludwig_version": "0.2",
     "model_definition": {
