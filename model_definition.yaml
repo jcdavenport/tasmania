@@ -1,0 +1,9 @@
+input_features:
+    -
+        name: Consolidated_Course_Name
+        type: text
+
+output_features:
+    -
+        name: Category
+        type: category

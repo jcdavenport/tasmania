@@ -1,1 +1,1 @@
-/usr/lib/python3.6/operator.py
+/usr/lib64/python3.6/operator.py
