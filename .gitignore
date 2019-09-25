@@ -2,12 +2,13 @@ venv/
 .idea
 
 !data/train/.keep
-data/train/*
+data/train/*.*
 
 !data/test/.keep
-data/test/*
+data/test/*.*
 
 !results/.keep
-results/*
+results/experiment_run_0/
+results/*.*
 
 results_0/
