@@ -1,3 +1,13 @@
 venv/
 .idea
 
+!data/train/.keep
+data/train/*
+
+!data/test/.keep
+data/test/*
+
+!results/.keep
+results/*
+
+results_0/
