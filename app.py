@@ -80,6 +80,24 @@ def predict():
     os.system("ludwig predict --data_csv " + test_proc + " --model_path " + exp_model)
     print("...DONE")
 
+    # read the original test file into a dataframe
+    # dfr = pd.read_csv(test_file, encoding='iso-8859-1')
+
+    # read the prediction file into a list
+    # with open(predict_file, 'r') as f:
+    #     li = f.read().splitlines()
+
+    # col = 'Category'
+
+    # convert the prediction list into a dataframe
+    # new_df = pd.DataFrame(li, columns=[col])
+
+    # insert the predicted values into the "Category" column
+    # dfr[col] = new_df
+
+    # print the results to a .csv file
+    # dfr.to_csv(result_file, index=False)
+
     return
 
 
