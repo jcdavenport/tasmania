@@ -8,8 +8,8 @@ _for more info on the Ludwig toolbox, visit: https://github.com/uber/ludwig_
 
 Pre-reqs:  
 * Only tested on Linux OS  
-* Run <code>sudo apt install libgmp3-dev</code> for Debian based systems.  
-* Run <code>sudo yum install gmp gmp-devel</code> for RedHat base systems.  
+* Run <code>sudo apt install libgmp3-dev</code> for Debian based systems. OR...  
+* Run <code>sudo yum install gmp gmp-devel</code> for RedHat based systems.  
   
 Use:  
 * Clone this repo. 
