@@ -7,7 +7,7 @@ agate-dbf==0.2.1
 agate-excel==0.2.3
 agate-sql==0.5.4
 astor==0.8.0
-Babel==2.7.0
+Babel==2.9.1
 blis==0.4.1
 certifi==2019.9.11
 cffi==1.12.3
