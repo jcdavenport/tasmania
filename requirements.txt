@@ -53,7 +53,7 @@ parsedatetime==2.4
 Pillow==6.2.0
 plac==0.9.6
 preshed==3.0.2
-protobuf==3.10.0
+protobuf==3.15.0
 pycparser==2.19
 pydantic==0.30
 pyparsing==2.4.2
