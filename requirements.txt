@@ -50,7 +50,7 @@ numpy==1.17.2
 openpyxl==3.0.0
 pandas==0.25.1
 parsedatetime==2.4
-Pillow==6.2.0
+Pillow==9.0.1
 plac==0.9.6
 preshed==3.0.2
 protobuf==3.10.0
